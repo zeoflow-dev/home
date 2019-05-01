@@ -226,7 +226,7 @@ abbr[title] {
 	left:0;
 	width:30px;
 	height:4px;
-	background-color:#6A1B9A
+	background-color:#f44336
 }.intro--banner h1 {
 	position:relative;
 	font-size:68px;
@@ -246,7 +246,7 @@ abbr[title] {
 	left:23px;
 	right:0;
 	height:100%;
-	background-color:#6A1B9A;
+	background-color:#f44336;
 	z-index:-1;
 	-webkit-transition:left .2s ease-in-out;
 	transition:left .2s ease-in-out
